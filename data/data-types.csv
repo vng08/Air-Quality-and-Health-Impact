@@ -1,0 +1,15 @@
+,Data Type
+AQI,float64
+PM10,float64
+PM2_5,float64
+NO2,float64
+SO2,float64
+O3,float64
+Temperature,float64
+Humidity,float64
+WindSpeed,float64
+RespiratoryCases,int64
+CardiovascularCases,int64
+HospitalAdmissions,int64
+HealthImpactScore,float64
+HealthImpactClass,category
